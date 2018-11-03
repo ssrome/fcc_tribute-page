@@ -1,0 +1,44 @@
+#background{
+  background-color: rgb(199, 193, 183);
+}
+#main{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(226, 217, 200);
+}
+#title {
+  text-align: center;
+  padding-top: 10px;
+}
+#img-div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 15px;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+.row{
+  float: right;
+  width: 75%
+}
+h4,p{
+  text-align: justify;
+  max-width: 70;
+}
+#timeline{
+  text-align: justify;
+  max-width: 60%;
+}
+#tribute-info{
+  text-align: center;
+}
+#img-caption{
+  font-size: 0.9em;
+}
+.year {
+  font-weight: bold;
+}
